@@ -10,7 +10,6 @@ The objective of this project is to build an fraud detection application that al
 - To address class imbalance in the dataset, the Logistic Regression model is trained with class weighting, ensuring that fraudulent transactions receive appropriate importance during learning.
 
 - After training and evaluation, the complete preprocessing and modeling pipeline is saved and reused in a Streamlit web application. The web app allows users to input transaction details through an interactive interface and receive real-time fraud predictions.
-- 
 
 ## 3. Dataset
 The dataset used in this project is sourced from Kaggle: [Fraud Detection Dataset](https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download) 
