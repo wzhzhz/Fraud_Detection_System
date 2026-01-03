@@ -1,4 +1,4 @@
-# Fraud Detection Streamlit App
+# Fraud Detection & Transaction Risk Prediction (Streamlit App)
 ## 1. Objective
 The objective of this project is to build an fraud detection application that allows users to input transaction details and receive real-time fraud predictions through an interactive web interface.
 
